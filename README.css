@@ -1,10 +1,13 @@
 <html>
   <head>
-    <link rel="stylesheet" href="small.css">
-  </head>
+    <style>
+      .blue{color:blue;}
+    </style>
+    </head>
   <body>
     <div class="blue">
       Hello, world!
     </div>
   </body>
 </html>
+<link rel="stylesheet" href="small.css">
